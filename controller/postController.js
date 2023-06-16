@@ -17,7 +17,7 @@ const getAllPost = async (req, res) => {
         _id,
         title,
         content,
-        imageUrl: `https://spiky-wave-production.up.railway.app/image/${imageUrl}`,
+        imageUrl: `https://dosbubble.cyclic.app/image/${imageUrl}`,
         tags,
         active,
         createdAt,
